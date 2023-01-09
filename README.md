@@ -22,6 +22,7 @@
 <a href="https://auth.geeksforgeeks.org/user/singodiyapeechuparashubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singodiyapeechuparashubham" height="30" width="40" /></a>
 <a href="https://kaggle.com/shubhamsingodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamsingodiya" height="30" width="40" /></a>
 <a href="https://codepen.io/mistermickey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mistermickey" height="30" width="40" /></a>
+<br/>
 <a href="https://quine.sh/profile/master-mickey"><img src="https://stats.quine.sh/master-mickey/web3" alt="master-mickey's Web3 activity" width="380px"></a>
 </p>
 
