@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistermickey&" alt="mistermickey" /></p>
 <br/>
-<a href="https://quine.sh/profile/master-mickey"><img src="https://stats.quine.sh/master-mickey/web3" alt="master-mickey's Web3 activity" width="380px">
