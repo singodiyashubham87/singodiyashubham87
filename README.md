@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **singodiyapeechuparashubham@gmail.com**
 
-- ⚡ Fun fact **Stack Overflow has a home page.**
+- ⚡ Fun fact **Stack Overflow has a home page :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
