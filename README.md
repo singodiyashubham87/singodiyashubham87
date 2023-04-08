@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Front-End development & Dark web**
+- 💬 Ask me about **Front-End development & Dark Web**
 
 - 📫 How to reach me **singodiyapeechuparashubham@gmail.com**
 
