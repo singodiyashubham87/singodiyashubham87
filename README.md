@@ -21,8 +21,6 @@
 
 
 <hr>
-
-
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="50" height="50" />CONNECT WITH ME</h1>
  </div>
