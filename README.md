@@ -51,7 +51,7 @@
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />GITHUB STATS</h1>
  </div>
-<div style="margin-bottom:.5rem"><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="mistermickey" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p></div><br><hr> </br>
+<div style="margin-bottom:.5rem"><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="mistermickey" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p></div><br></br>
 <div align="center"><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey" /></p></div>
 
 
