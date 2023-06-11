@@ -18,7 +18,7 @@
 
 - 🔥 200+ days streak on Leetcode 
 
-- ❤️ 300+ Contributions & 100+ Days Streak
+- ❤️ 400+ Contributions & 100+ Days Streak
 
 
 <hr>
