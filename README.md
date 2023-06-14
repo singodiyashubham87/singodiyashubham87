@@ -21,7 +21,6 @@
 
 - ❤️ 400+ Contributions & 100+ Days Streak on *Github*
 
-
 <hr>
 
 <div align="center" >
