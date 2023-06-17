@@ -22,6 +22,7 @@
 - ❤️ 500+ Contributions & 100+ Days Streak on *Github*
 
 <hr>
+<div align="center"><p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MisterMickey&theme=onedark" alt="MisterMickey"></p></div>
 
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="50" height="50" />CONNECT WITH ME</h1>
@@ -53,6 +54,7 @@
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey"/></p></div>
 <div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p></div>
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="MisterMickey"/></p></div>
+
 
 [![MisterMickey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MisterMickey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
