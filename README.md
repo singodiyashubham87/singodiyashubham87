@@ -19,7 +19,7 @@
 
 - 🔥 200+ days streak on *Leetcode* 
 
-- ❤️ 600+ Contributions & 100+ Days Streak on *Github*
+- ❤️ 650+ Contributions & 100+ Days Streak on *Github*
 
 <hr>
 <div align="center"><p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MisterMickey&theme=onedark" alt="MisterMickey"></p></div>
