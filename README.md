@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React** & exploring **Open-Source**
 
-- 💬 Ask me about **Open-Source, Web-Development, & Dark Web** 
+- 💬 Ask me about **Open-Source, Web-Development, Bhagavad Gita & Dark Web** 
 
 - 📫 Reach me through this <a href="mailto:singodiyapeechuparashubham.com"><strong>Secret Mail</strong></a>
 
