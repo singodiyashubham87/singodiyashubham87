@@ -18,7 +18,7 @@
 
 - 👤 Participant in *GSSOC'23* & *SSOC 2.0*
 
-- 🔥 245+ days streak on *Leetcode*
+- 🔥 250+ days streak on *Leetcode*
 
 - ❤️ 745+ Contributions & 100+ Days Streak on *Github*
 
