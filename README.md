@@ -52,10 +52,11 @@
 
 <div align="center"><h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />GITHUB STATS</h1> </div>
 
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey"/></p></div>
-<div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p></div>
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="MisterMickey"/></p></div>
+<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey"/></p>
+<div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="MisterMickey"/></p>
 
+[![master-mickey's GitHub | Stats](https://stats.quine.sh/master-mickey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=master-mickey) </div>
 
 [![MisterMickey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MisterMickey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
