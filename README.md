@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=RADHE-RADHE!+%F0%9F%99%8F;JAI+SHREE+KRISHNA!+%F0%9F%99%8F;JAI+SHREE+RAM!+%F0%9F%99%8F;NAMASTE!+%F0%9F%99%8F;PRANAMA!+%F0%9F%99%8F;KHAMMA+GHANi!+%F0%9F%99%8F;JAI+JINENDRA!+%F0%9F%99%8F;SAT+SRI+AKAAL!🙏)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=Front-end+Developer;Open-Source+Contributor;Hackathon+Enthusiast;Deep+Web+Surfer;Problem+Solver)](https://git.io/typing-svg)
+
 ![MasterHead](/head.gif)
 
 
