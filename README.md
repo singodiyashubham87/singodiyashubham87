@@ -16,12 +16,13 @@
 
 - ⚡ Fun fact **Stack Overflow has a home page :)**
 
-- 👤 Participant in *GSSOC'23* & *SSOC 2.0*
+- 👤 Global rank #59 in **GSSoC'23**
 
-- 🔥 265+ days streak on *Leetcode*
+- 🔥 265+ days streak on **Leetcode**
 
 - ❤️ 900+ Contributions & 100+ Days Streak on *Github*
 
+  
 <hr>
 <div align="center"><p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MisterMickey&theme=onedark" alt="MisterMickey"></p></div>
 
