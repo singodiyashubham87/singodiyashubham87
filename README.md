@@ -18,7 +18,7 @@
 
 - 👤 Global rank #59 in **GSSoC'23**
 
-- 🔥 265+ days streak on **Leetcode**
+- 🔥 280+ days streak on **Leetcode**
 
 - ❤️ 940+ Contributions & 100+ Days Streak on *Github*
 
