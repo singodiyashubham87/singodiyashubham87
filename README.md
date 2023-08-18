@@ -20,7 +20,7 @@
 
 - 🔥 280+ days streak on **Leetcode**
 
-- ❤️ 940+ Contributions & 100+ Days Streak on *Github*
+- ❤️ 950+ Contributions & 115+ Days Streak on *Github*
 
   
 <hr>
