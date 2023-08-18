@@ -1,9 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=Front-end+Developer;Open-Source+Contributor;Hackathon+Enthusiast;Deep+Web+Surfer;Problem+Solver)](https://git.io/typing-svg)
-![MasterHead](/head.gif)
-
-
-<h1 align="center">Hi 👋, I'm Shubham Singodiya</h1>
-<h2 align="center">A Developer from India!</h2><hr>
+<h1 align="center">Hello 👋, I'm Shubham Singodiya</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistermickey&label=Profile%20views&color=0e75b6&style=flat" alt="mistermickey" /> </p>
 
@@ -24,8 +19,6 @@
 
   
 <hr>
-<div align="center"><p><img align="center" src="https://github-profile-trophy.vercel.app/?username=MisterMickey&theme=onedark" alt="MisterMickey"></p></div>
-
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="50" height="50" />CONNECT WITH ME</h1>
  </div>
@@ -53,14 +46,11 @@
 
 <div align="center"><h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />GITHUB STATS</h1> </div>
 
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey"/></p>
-<div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p>
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="MisterMickey"/></p>
-
-[![master-mickey's GitHub | Stats](https://stats.quine.sh/master-mickey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=master-mickey) </div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey"/></p>
+</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mistermickey&show_icons=true&locale=en" alt="mistermickey" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="MisterMickey"/></p>
+</hr>
 
 [![MisterMickey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MisterMickey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center"><a href="https://www.buymeacoffee.com/mastermickey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
-
 
