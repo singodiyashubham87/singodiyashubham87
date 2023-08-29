@@ -16,7 +16,7 @@
 
 - 🔥 My team won the **HackBattle: React vs Angular** hackathon organized by **Major League Hacking (MLH)**.
 
-- ❤️ I have been able to maintain a streak of more than **120+** days on *Github*.
+- ❤️ I have been able to maintain a streak of more than **125+** days on *Github*.
 </div>
   
 <hr>
@@ -42,6 +42,6 @@
 
 <div align="center"><h1>GITHUB STATS</h1> </div>
 
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistermickey&show_icons=true&locale=en&layout=compact" alt="mistermickey"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisterMickey&" alt="MisterMickey"/></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singodiyashubham87&show_icons=true&locale=en&layout=compact" alt="singodiyashubham87"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singodiyashubham87&" alt="singodiyashubham87"/></p></div>
 </hr>
