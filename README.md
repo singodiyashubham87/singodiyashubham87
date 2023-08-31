@@ -9,7 +9,7 @@
 </br>
 
 <div align="left">
-  
+   
 - 🌱 I’m a Frontend Developer, currently learning **React** & exploring **Open-Source** & **Hackathon** opportunities.
 
 - 👤 I have secured a global ranking of #59 in the **GirlScript Summer of Code (GSSoC'23)** program.
