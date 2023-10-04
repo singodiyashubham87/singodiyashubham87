@@ -16,7 +16,7 @@
 
 - 🔥 My team won the **HackBattle: React vs Angular** hackathon organized by **Major League Hacking (MLH)**.
 
-- ❤️ I have been able to maintain a streak of more than **150+** days on *Github*.
+- ❤️ I have been able to maintain a max. streak of more than **150+** days on *Github*.
 </div>
   
 <hr>
