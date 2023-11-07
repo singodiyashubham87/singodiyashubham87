@@ -10,15 +10,15 @@
 
 <div align="left">
    
-- 🌱 I’m a Frontend Developer, currently learning **React** & exploring **Open-Source** and **Hackathon** opportunities.
+- 🌱 I’m a Full Stack Developer, currently learning **React** & exploring **Open-Source** and **Hackathon** opportunities.
 
 - 👤 I have secured a global ranking of #59 in the **GirlScript Summer of Code (GSSoC'23)** program.
+
+- 🤫 I have achieved a #61 global ranking in **HackSquad'23** & also won the **Quine-Hacktoberfest Challenge**.
 
 - 🔥 My team won the **HackBattle: React vs Angular** hackathon organized by **Major League Hacking (MLH)**.
 
 - ❤️ I have been able to maintain the longest streak of more than **150+** days on *Github*.
-
-- 🤫 I participated in **HacktoberFest'23** and completed the program by contributing 18 Pull Requests.
 
 </div>
   
