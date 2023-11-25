@@ -44,8 +44,11 @@
 
 
 <div align="center"><h1>GITHUB STATS</h1> </div>
+<div align="center">
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singodiyashubham87&" alt="singodiyashubham87"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singodiyashubham87&" alt="singodiyashubham87"/></p></div>
+</div>
 
 [![An image of @singodiyashubham87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singodiyashubham87)](https://holopin.io/@singodiyashubham87)
 
