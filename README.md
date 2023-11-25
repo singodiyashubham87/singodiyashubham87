@@ -42,6 +42,10 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <a href="https://github.com/singodiyashubham87"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<div align="center" >
+<h1>HOLOPIN BADGES</h1>
+ </div>
+
 [![An image of @singodiyashubham87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singodiyashubham87)](https://holopin.io/@singodiyashubham87)
 
 </hr>
