@@ -42,14 +42,6 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <a href="https://github.com/singodiyashubham87"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-
-<div align="center"><h1>GITHUB STATS</h1> </div>
-<div align="center">
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singodiyashubham87&" alt="singodiyashubham87"/></p>
-
-</div>
-
 [![An image of @singodiyashubham87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singodiyashubham87)](https://holopin.io/@singodiyashubham87)
 
 </hr>
