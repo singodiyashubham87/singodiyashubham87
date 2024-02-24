@@ -16,7 +16,7 @@
 
 - 🤫 I have achieved a #61 global ranking in **HackSquad'23** & also won the **Quine-Hacktoberfest Challenge**.
 
-- 🔥 My team won the **HackBattle: React vs Angular** hackathon organized by **Major League Hacking (MLH)**.
+- 🔥 My team won the **HackBattle: React vs Angular** and the **Hack This Fall '24** hackathon organized by **Major League Hacking (MLH)**.
 
 - ❤️ I have been able to maintain the longest streak of more than **200+** days on *Github*.
 
