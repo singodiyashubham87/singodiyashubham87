@@ -14,7 +14,7 @@
 
 - 👤 I have secured a global ranking of #59 in the **GirlScript Summer of Code (GSSoC'23)** program.
 
-- 🤫 I have achieved a #61 global ranking in **HackSquad'23** & also won the **Quine-Hacktoberfest Challenge**.
+- 🤫 My squad achieved a #61 global ranking in **HackSquad'23** & also won the **Quine-Hacktoberfest Challenge**.
 
 - 🔥 My team won the **HackBattle: React vs Angular** and the **Hack This Fall '24** hackathon organized by **Major League Hacking (MLH)**.
 
