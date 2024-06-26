@@ -10,7 +10,7 @@
 
 <div align="left">
    
-- 🌱 I’m a Full Stack Developer, currently learning **Django** & exploring **Open-Source** and **Hackathon** opportunities.
+- 🌱 I’m a Full Stack Developer, currently learning **NodeJS & ExpressJS** & exploring **Open-Source** and **Hackathon** opportunities.
 
 - 👤 I have secured a global ranking of #59 in the **GirlScript Summer of Code (GSSoC'23)** program.
 
