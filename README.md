@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello 👋, I'm Shubham Singodiya</h1></hr>
+  <h1 align="center">Hello 👋, I'm Shubham Singodiya(Master Mickey)</h1></hr>
   <a href="https://www.linkedin.com/in/singodiyashubham87/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=1A0000"/></a>
   <a href="mailto:singodiyashubham87@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a>
   <a href="https://discordapp.com/users/967858699156729866"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=1A0000" alt="Anmol#7140" ></a>
@@ -24,13 +24,14 @@
   
 <hr>
 <div align="center" >
-<h1>LANGUAGES & TOOLS</h1>
+<h1>MASTER'S TOOLBOX</h1>
  </div>
 <p align="center"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
