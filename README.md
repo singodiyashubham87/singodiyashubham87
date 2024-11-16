@@ -12,13 +12,13 @@
    
 - 🌱 I’m a Full Stack Developer, currently learning **NodeJS & ExpressJS** & exploring **Open-Source** and **Hackathon** opportunities.
 
-- 👤 I have secured a global ranking of #59 in the **GirlScript Summer of Code (GSSoC'23)** program.
+- 👤 Secured a global ranking of #59 in the **GirlScript Summer of Code (GSSoC'23)** program.
 
-- 🤫 My squad achieved a #61 global ranking in **HackSquad'23** & I also won the **Quine-Hacktoberfest Challenge**.
+- 🤫 Achieved a #61 global ranking in **HackSquad'23** & I also won the **Quine-Hacktoberfest Challenge**.
 
-- 🔥 My team won the **HackBattle: React vs Angular** and the **Hack This Fall '24** hackathon organized by **Major League Hacking (MLH)**.
+- 🔥 Winner of **HackBattle: React vs Angular**, **Hack This Fall'24** and the **Hack This Fall'24 Virtual** hackathons organized by **Major League Hacking (MLH)**.
 
-- ❤️ I have been able to maintain the longest streak of more than **200+** days on *Github*.
+- ❤️ Maintained the longest streak of more than **200+** days on *Github*.
 
 </div>
   
