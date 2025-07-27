@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello 👋, I'm Shubham Singodiya(Master Mickey)</h1></hr>
+  <h1 align="center">Hello 👋, I'm Shubham Singodiya</h1></hr>
   <a href="https://www.linkedin.com/in/singodiyashubham87/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=1A0000"/></a>
   <a href="mailto:singodiyashubham87@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a>
   <a href="https://discordapp.com/users/967858699156729866"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=1A0000" alt="discord" ></a>
